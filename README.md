@@ -14,7 +14,9 @@ uma IMU fornecidos pelos três sensores foi realizada a calibração do equipame
 utilizado três métodos de determinação de atitude distintos, dois analíticos e um 
 numérico. Determinação de altitude pelo algoritmo TRIAD e determinação de atitude 
 pelo Quatérnion são os métodos analíticos de determinar a atitude e o método de 
-integração do trapézio é método numérico
+integração do trapézio é método numérico.
+
+O PROGRAMA PRINCIPAL É O DeterminacaoAtitudeBeatrizDeSouzaGabrielPrieto.m
 
 # Animação do movimento da placa
 
